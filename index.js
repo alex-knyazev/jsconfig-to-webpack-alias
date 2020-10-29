@@ -3,7 +3,7 @@ const path = require( 'path' );
 /**
  * To get alias for webpack `resolve.alias` value from `paths` at jsconfig.json `compilerOptions`
  * 
- * @param {string} jsConfigPaths value of `jsConfig.compilerOptions.paths` from jsconfig.json
+ * @param {object} jsConfigPaths value of `jsConfig.compilerOptions.paths` from jsconfig.json
  */
 
 function getWebpackAliasFromJsconfig( jsConfigPaths ) {
