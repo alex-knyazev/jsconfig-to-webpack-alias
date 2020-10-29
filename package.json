@@ -1,0 +1,27 @@
+{
+  "name": "jsconfig-to-webpack-alias",
+  "version": "1.0.0",
+  "description": "to get webpack alias object from jsconfig path to have one source of truth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-knyazev/jsconfig-to-webpack-alias.git"
+  },
+  "keywords": [
+    "alias",
+    "aliases",
+    "jsconfig",
+    "webpack",
+    "absolute",
+    "import"
+  ],
+  "author": "Alexander Knyazev <alex.knyazev.world@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-knyazev/jsconfig-to-webpack-alias/issues"
+  },
+  "homepage": "https://github.com/alex-knyazev/jsconfig-to-webpack-alias#readme"
+}
